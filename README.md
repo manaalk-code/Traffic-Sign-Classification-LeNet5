@@ -1,4 +1,4 @@
-# Traffic Sign Classification using LeNet-5
+# Traffic Sign Classification using LeNet-5 based Deep Neural Network
 
 This system was awarded **1st Position at the COMSATS EXPO 2024**.
 A deep learning-based real-time traffic sign classification system built and deployed using a custom Pakistani dataset and the LeNet-5 architecture.
