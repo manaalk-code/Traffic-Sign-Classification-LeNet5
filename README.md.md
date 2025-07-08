@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ##  Author
 **Manaal Khurram**  
-Electronics Graduate – COMSATS University Islamabad   
+Electronics Engineer – COMSATS University Islamabad   
 [GitHub](https://github.com/manaalk-code)
 [LinkedIn](www.linkedin.com/in/manaal-khurram-07a016308)
 
